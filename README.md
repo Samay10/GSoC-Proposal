@@ -327,7 +327,7 @@ The timeline has been divided into a bonding period + 3 phases of coding. This e
 
 ### 6. Technical Stack
 
-- **Programming**: Using Python 3.10+ for all development tasks.  
+- **Programming**: Using Python 3.11+ for all development tasks.  
 - **ML Frameworks**: PyTorch for deep learning, Transformers for NLP, and Hugging Face Evaluate for benchmarking.  
 - **Data Processing**: Pandas for structured data handling and NumPy for numerical computations.  
 - **Visualization**: Matplotlib for static plots and Plotly for interactive visualizations.  
